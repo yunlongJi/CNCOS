@@ -25,4 +25,4 @@ And datasets in open-set scenario can be constructed based on the 9 datasets abo
 
 File
 ===
-"Blog_Test.py" is an example case of the cross-network node classification task from Blog1 to Blog2 networks.
+"Blog_Test.py" is an example case of the  task of cross-network node classification in open-set scenario from Blog1 to Blog2 networks.
